@@ -1,2 +1,2 @@
 <?php
-echo 'hello from Google App ENgine PHP'>;
+echo 'hello from Google App Engine PHP';
