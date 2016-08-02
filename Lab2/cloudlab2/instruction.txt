@@ -9,3 +9,14 @@ Change the specification script to run in the .yaml file
 #### URL
 Run on the Google App Engine server created
 http://s3514010-cc2016.appspot.com/
+
+
+#### Instructions
+http://bit.ly/2abwG63
+
+#### References
+gobyexample.com
+packages: golang.org/pkg
+
+golang
+cloud.google.com.appengine/docs/go/gettingstarted/creating-guestbook
