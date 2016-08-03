@@ -1,0 +1,6 @@
+
+To view endpoints
+https://rmit-s3514010-2016.appspot.com/_ah/api
+
+Base url
+https://rmit-s3514010-2016.appspot.com
