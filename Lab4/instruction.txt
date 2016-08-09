@@ -1,0 +1,11 @@
+#To Run
+
+## Enter to CMD
+appcfg.py -A s3514010-prac4go update section2/
+
+#### Switch between scripts
+Change the specification script to run in the .yaml file
+
+#### URL
+Run on the Google App Engine server created
+http://s3514010-prac4go.appspot.com/
